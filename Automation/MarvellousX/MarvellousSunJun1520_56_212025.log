@@ -1,0 +1,681 @@
+--------------------------------------------------------------------------------
+			Marvellous Infosystems Process Log
+			Log File is Created at : Sun Jun 15 20:56:21 2025
+--------------------------------------------------------------------------------
+{'username': 'root', 'name': 'loginwindow', 'pid': 387, 'vms': 402584.859375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'distnoted', 'pid': 554, 'vms': 416911.328125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'cfprefsd', 'pid': 555, 'vms': 416912.421875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'UserEventAgent', 'pid': 562, 'vms': 416946.125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'WindowManager', 'pid': 567, 'vms': 402135.015625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'CoreServicesUIAgent', 'pid': 568, 'vms': 402155.234375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'universalaccessd', 'pid': 569, 'vms': 401341.59375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'knowledge-agent', 'pid': 570, 'vms': 416962.671875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'pboard', 'pid': 571, 'vms': 416920.890625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Dock', 'pid': 572, 'vms': 402079.0625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'talagentd', 'pid': 573, 'vms': 416960.703125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ControlCenter', 'pid': 574, 'vms': 402449.71875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'SystemUIServer', 'pid': 575, 'vms': 401745.734375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Finder', 'pid': 576, 'vms': 402860.921875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'lsd', 'pid': 578, 'vms': 416954.046875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'secd', 'pid': 582, 'vms': 416967.265625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'nsurlsessiond', 'pid': 585, 'vms': 417034.796875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'rapportd', 'pid': 587, 'vms': 416952.171875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'QuickLookUIService', 'pid': 588, 'vms': 416896.96875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'routined', 'pid': 590, 'vms': 416963.734375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'usernoted', 'pid': 591, 'vms': 416962.09375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'secinitd', 'pid': 592, 'vms': 416953.421875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'lockoutagent', 'pid': 593, 'vms': 416943.96875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ContextStoreAgent', 'pid': 594, 'vms': 416962.84375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.quicklook.ThumbnailsAgent', 'pid': 595, 'vms': 417471.828125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'bird', 'pid': 596, 'vms': 416965.875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'trustd', 'pid': 597, 'vms': 417023.375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'CoreLocationAgent', 'pid': 598, 'vms': 417108.703125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'WallpaperAgent', 'pid': 599, 'vms': 401757.171875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'sharedfilelistd', 'pid': 604, 'vms': 416945.59375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'containermanagerd', 'pid': 605, 'vms': 416942.6875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.hiservices-xpcservice', 'pid': 606, 'vms': 416910.953125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'usernotificationsd', 'pid': 608, 'vms': 416953.5} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'assistantd', 'pid': 610, 'vms': 416998.0} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'suggestd', 'pid': 612, 'vms': 417129.078125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'tccd', 'pid': 613, 'vms': 416953.671875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'callservicesd', 'pid': 614, 'vms': 416969.78125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'calaccessd', 'pid': 615, 'vms': 416960.953125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'networkserviceproxy', 'pid': 616, 'vms': 416965.125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'fileproviderd', 'pid': 617, 'vms': 416974.546875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'pkd', 'pid': 618, 'vms': 416952.546875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'AMPDeviceDiscoveryAgent', 'pid': 619, 'vms': 416955.125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'iconservicesagent', 'pid': 620, 'vms': 417117.140625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'chronod', 'pid': 621, 'vms': 416963.765625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'accountsd', 'pid': 622, 'vms': 417000.59375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ViewBridgeAuxiliary', 'pid': 623, 'vms': 400876.859375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'identityservicesd', 'pid': 624, 'vms': 416972.90625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ContinuityCaptureAgent', 'pid': 628, 'vms': 416944.546875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'intelligentroutingd', 'pid': 629, 'vms': 416948.21875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'donotdisturbd', 'pid': 630, 'vms': 416960.328125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'audioaccessoryd', 'pid': 631, 'vms': 416947.046875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'WallpaperImageExtension', 'pid': 632, 'vms': 401243.078125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'triald', 'pid': 634, 'vms': 416946.84375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'fontd', 'pid': 639, 'vms': 416944.34375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'corespotlightd', 'pid': 642, 'vms': 422204.390625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'fontworker', 'pid': 644, 'vms': 416966.40625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'neagent', 'pid': 645, 'vms': 416952.25} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'useractivityd', 'pid': 646, 'vms': 416912.109375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'extensionkitservice', 'pid': 647, 'vms': 416920.3125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'cloudd', 'pid': 649, 'vms': 417034.71875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.dock.extra', 'pid': 650, 'vms': 401270.75} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'CalendarWidgetExtension', 'pid': 651, 'vms': 416994.421875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'icloudmailagent', 'pid': 654, 'vms': 416944.09375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'swcd', 'pid': 655, 'vms': 416953.140625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'duetexpertd', 'pid': 656, 'vms': 416990.875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'sharingd', 'pid': 657, 'vms': 416960.8125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'amsondevicestoraged', 'pid': 658, 'vms': 416946.921875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ctkd', 'pid': 659, 'vms': 416943.765625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'linkd', 'pid': 660, 'vms': 416972.859375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'transparencyd', 'pid': 662, 'vms': 416960.4375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'syncdefaultsd', 'pid': 663, 'vms': 416958.5625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'coreauthd', 'pid': 665, 'vms': 416944.78125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'StatusKitAgent', 'pid': 667, 'vms': 416949.1875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ScreenTimeAgent', 'pid': 669, 'vms': 416956.53125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ReportCrash', 'pid': 675, 'vms': 416907.25} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'NotificationCenter', 'pid': 676, 'vms': 401835.109375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'pbs', 'pid': 679, 'vms': 416952.75} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Spotlight', 'pid': 680, 'vms': 402771.3125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'UIKitSystem', 'pid': 681, 'vms': 401476.75} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'WiFiAgent', 'pid': 682, 'vms': 417173.953125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.geod', 'pid': 683, 'vms': 416949.28125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.CloudDocs.iCloudDriveFileProvider', 'pid': 687, 'vms': 416962.296875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'WeatherWidget', 'pid': 688, 'vms': 417221.703125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'cdpd', 'pid': 689, 'vms': 416942.953125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'homed', 'pid': 690, 'vms': 416956.84375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'extensionkitservice', 'pid': 693, 'vms': 416920.21875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'followupd', 'pid': 694, 'vms': 416910.546875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'familycircled', 'pid': 697, 'vms': 416944.25} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'contentlinkingd', 'pid': 698, 'vms': 416944.078125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'contactsd', 'pid': 700, 'vms': 416953.265625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'akd', 'pid': 702, 'vms': 416951.078125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'heard', 'pid': 703, 'vms': 416955.734375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'corespeechd', 'pid': 704, 'vms': 417009.96875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'BiomeAgent', 'pid': 707, 'vms': 416944.765625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'imklaunchagent', 'pid': 709, 'vms': 401070.140625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Siri', 'pid': 712, 'vms': 401613.75} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'icdd', 'pid': 713, 'vms': 416943.53125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'AirPlayUIAgent', 'pid': 716, 'vms': 401346.90625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'imagent', 'pid': 717, 'vms': 416953.28125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'diagnostics_agent', 'pid': 719, 'vms': 416944.9375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'TextInputMenuAgent', 'pid': 720, 'vms': 402048.1875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Grammarly Desktop Helper', 'pid': 722, 'vms': 401744.734375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'CursorUIViewService', 'pid': 726, 'vms': 401651.015625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'TextInputSwitcher', 'pid': 728, 'vms': 416989.453125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ctkahp', 'pid': 730, 'vms': 416910.4375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'searchpartyuseragent', 'pid': 733, 'vms': 416971.921875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'commerce', 'pid': 735, 'vms': 416949.828125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'TextThumbnailExtension', 'pid': 737, 'vms': 417173.4375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'PAH_Extension', 'pid': 739, 'vms': 416970.09375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'StocksWidget', 'pid': 743, 'vms': 417209.515625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'AppSSOAgent', 'pid': 744, 'vms': 401870.046875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'maild', 'pid': 749, 'vms': 416944.140625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ScreenTimeWidgetExtension', 'pid': 753, 'vms': 417015.625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'mediaremoteagent', 'pid': 756, 'vms': 416906.28125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'avconferenced', 'pid': 757, 'vms': 416902.46875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'WorldClockWidget', 'pid': 758, 'vms': 416979.78125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Grammarly Desktop', 'pid': 764, 'vms': 406747.140625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.Notes.WidgetExtension', 'pid': 766, 'vms': 416954.5} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.WebKit.GPU', 'pid': 773, 'vms': 421254.625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.WebKit.WebContent', 'pid': 777, 'vms': 487310.90625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.WebKit.Networking', 'pid': 780, 'vms': 421641.125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'FindMyWidgetItems', 'pid': 793, 'vms': 416954.5625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'SafariWidgetExtension', 'pid': 794, 'vms': 417115.734375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'AssetCacheLocatorService', 'pid': 795, 'vms': 416946.3125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ServiceExtension', 'pid': 798, 'vms': 400851.53125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ShortcutsWidgetExtension', 'pid': 799, 'vms': 416954.765625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'PeopleWidget_macOSExtension', 'pid': 808, 'vms': 416955.015625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'PodcastsWidget', 'pid': 809, 'vms': 416993.765625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'RemindersWidgetExtension', 'pid': 810, 'vms': 416955.171875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'FindMyWidgetPeople', 'pid': 811, 'vms': 416955.125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'CloudTelemetryService', 'pid': 812, 'vms': 401843.8125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'TipsWidgetExtension', 'pid': 813, 'vms': 416954.5} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'BatteriesAvocadoWidgetExtension', 'pid': 816, 'vms': 416954.796875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'HomeWidget', 'pid': 818, 'vms': 416955.09375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'PhotosReliveWidget', 'pid': 822, 'vms': 416954.78125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'HomeEnergyWidgetsExtension', 'pid': 823, 'vms': 416955.609375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Keychain Circle Notification', 'pid': 829, 'vms': 416961.125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'seserviced', 'pid': 831, 'vms': 416944.609375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'mdbulkimport', 'pid': 839, 'vms': 416954.0625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Electron', 'pid': 842, 'vms': 1559062.953125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'chrome_crashpad_handler', 'pid': 845, 'vms': 433295.359375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Code Helper (GPU)', 'pid': 846, 'vms': 433875.828125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Code Helper', 'pid': 847, 'vms': 433574.9375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'BackgroundTaskManagementAgent', 'pid': 850, 'vms': 416961.375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Code Helper (Renderer)', 'pid': 852, 'vms': 1560790.21875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ThemeWidgetControlViewService', 'pid': 861, 'vms': 401471.0} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Code Helper', 'pid': 866, 'vms': 1558568.609375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Code Helper', 'pid': 867, 'vms': 1558586.921875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Code Helper (Plugin)', 'pid': 873, 'vms': 1558562.5} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Code Helper', 'pid': 874, 'vms': 1558569.296875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'SoftwareUpdateNotificationManager', 'pid': 876, 'vms': 417100.875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'zsh', 'pid': 877, 'vms': 400778.1875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'pet', 'pid': 883, 'vms': 400908.609375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Code Helper (Plugin)', 'pid': 884, 'vms': 1558546.25} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'zsh', 'pid': 890, 'vms': 400650.1875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Code Helper (Plugin)', 'pid': 915, 'vms': 1567045.671875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Code Helper (Plugin)', 'pid': 934, 'vms': 1558498.078125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Code Helper (Plugin)', 'pid': 951, 'vms': 1558503.078125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'AppPredictionIntentsHelperService', 'pid': 1029, 'vms': 401584.140625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'assistant_service', 'pid': 1034, 'vms': 416955.90625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'CalendarIntentsExtension', 'pid': 1036, 'vms': 416953.21875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'SafariLinkExtension', 'pid': 1037, 'vms': 416953.203125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'MessagesActionExtension', 'pid': 1038, 'vms': 416952.96875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'appstoreagent', 'pid': 1039, 'vms': 416991.453125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'storeaccountd', 'pid': 1061, 'vms': 416943.3125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'OSDUIHelper', 'pid': 1080, 'vms': 401652.640625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'SiriNCService', 'pid': 1163, 'vms': 417172.765625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'spotlightknowledged', 'pid': 1198, 'vms': 401546.640625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'dataaccessd', 'pid': 1280, 'vms': 416954.75} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'metrickitd', 'pid': 1282, 'vms': 416944.4375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'AppleSpell', 'pid': 1462, 'vms': 417418.171875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'keyboardservicesd', 'pid': 1464, 'vms': 416948.15625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'replayd', 'pid': 2507, 'vms': 416959.4375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'AuthenticationServicesAgent', 'pid': 2528, 'vms': 421348.953125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'keychainsharingmessagingd', 'pid': 2530, 'vms': 416911.015625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'SAExtensionOrchestrator', 'pid': 2854, 'vms': 401177.71875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'BiomeSELFIngestor', 'pid': 2856, 'vms': 416919.71875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'GMSSELFIngestor', 'pid': 2857, 'vms': 416952.4375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'IFTelemetrySELFIngestor', 'pid': 2858, 'vms': 416952.265625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'IFTranscriptSELFIngestor', 'pid': 2859, 'vms': 416952.515625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'coreautha', 'pid': 3126, 'vms': 401384.5625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'peopled', 'pid': 3159, 'vms': 416951.75} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'siriinferenced', 'pid': 3160, 'vms': 401152.828125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'SiriSuggestionsBookkeepingService', 'pid': 3166, 'vms': 401459.453125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'CommCenter', 'pid': 3370, 'vms': 416956.625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'siriactionsd', 'pid': 3389, 'vms': 417000.15625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'mobiletimerd', 'pid': 3390, 'vms': 416943.546875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'UsageTrackingAgent', 'pid': 3391, 'vms': 416945.375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'dmd', 'pid': 3392, 'vms': 416948.6875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'amsengagementd', 'pid': 3393, 'vms': 421326.359375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ManagedSettingsAgent', 'pid': 3394, 'vms': 416911.875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ContainerMetadataExtractor', 'pid': 3395, 'vms': 416953.03125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'spotlightknowledged', 'pid': 3396, 'vms': 417057.21875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'amsaccountsd', 'pid': 3398, 'vms': 416949.140625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'milod', 'pid': 3399, 'vms': 416949.078125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'appleaccountd', 'pid': 3400, 'vms': 416952.0} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'localizationswitcherd', 'pid': 3401, 'vms': 416952.921875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'inputanalyticsd', 'pid': 3404, 'vms': 416943.65625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'deleted', 'pid': 3405, 'vms': 416954.3125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'mediaanalysisd', 'pid': 3407, 'vms': 417173.9375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'cloudphotod', 'pid': 3408, 'vms': 416973.5} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'adprivacyd', 'pid': 3410, 'vms': 416946.453125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'mapssyncd', 'pid': 3418, 'vms': 416950.59375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'photolibraryd', 'pid': 3420, 'vms': 417006.28125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'CategoriesService', 'pid': 3424, 'vms': 416952.8125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ContextService', 'pid': 3430, 'vms': 417049.390625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'swtransparencyd', 'pid': 3436, 'vms': 416945.453125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ScopedBookmarkAgent', 'pid': 3439, 'vms': 416953.4375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'CloudTelemetryService', 'pid': 3440, 'vms': 401288.5} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'geodMachServiceBridge', 'pid': 3444, 'vms': 416910.859375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'photoanalysisd', 'pid': 3454, 'vms': 416956.96875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ProtectedCloudKeySyncing', 'pid': 3501, 'vms': 416944.234375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'siriknowledged', 'pid': 3503, 'vms': 416960.96875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'IMDPersistenceAgent', 'pid': 3504, 'vms': 416950.484375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'SetStoreUpdateService', 'pid': 3505, 'vms': 416943.984375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'FontThumbnailExtension', 'pid': 3732, 'vms': 416980.59375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'WebThumbnailExtension', 'pid': 3734, 'vms': 421277.28125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.WebKit.GPU', 'pid': 3736, 'vms': 421348.453125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'AudioComponentRegistrar', 'pid': 3738, 'vms': 416943.328125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Preview', 'pid': 3743, 'vms': 402565.796875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'naturallanguaged', 'pid': 3745, 'vms': 416942.71875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'mdwrite', 'pid': 3746, 'vms': 416906.984375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'mscamerad-xpc', 'pid': 3747, 'vms': 400998.625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ptpcamerad', 'pid': 3748, 'vms': 416910.65625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.appkit.xpc.openAndSavePanelService', 'pid': 3749, 'vms': 401443.25} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'QuickLookUIService', 'pid': 3750, 'vms': 416896.96875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'csnameddatad', 'pid': 3751, 'vms': 416910.84375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'iCloudNotificationAgent', 'pid': 3752, 'vms': 416948.203125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ThemeWidgetControlViewService', 'pid': 3757, 'vms': 401343.78125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'WhatsApp', 'pid': 3759, 'vms': 403574.515625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'WAAppKitBridgeService', 'pid': 3763, 'vms': 401323.515625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.accessibility.mediaaccessibilityd', 'pid': 3781, 'vms': 416910.859375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.Safari.SafeBrowsing.Service', 'pid': 3784, 'vms': 416965.15625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'intents_helper', 'pid': 3789, 'vms': 416943.328125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.SiriTTSService.TrialProxy', 'pid': 3790, 'vms': 401035.390625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'QuickLookUIService', 'pid': 3791, 'vms': 417160.265625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'axassetsd', 'pid': 3797, 'vms': 416945.5} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'SiriAUSP', 'pid': 3799, 'vms': 400603.828125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'MacinTalkAUSP', 'pid': 3800, 'vms': 400852.953125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'WardaSynthesizer_x86_64', 'pid': 3801, 'vms': 33215.66015625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'WardaSynthesizer_arm64', 'pid': 3802, 'vms': 400885.3125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'KonaSynthesizer', 'pid': 3805, 'vms': 400732.875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'MauiAUSP', 'pid': 3808, 'vms': 400853.015625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'voicebankingd', 'pid': 3809, 'vms': 416950.140625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ThemeWidgetControlViewService', 'pid': 3820, 'vms': 401658.8125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ImageThumbnailExtension', 'pid': 3872, 'vms': 416921.375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'AudiovisualThumbnailExtension', 'pid': 3874, 'vms': 416957.46875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.appkit.xpc.openAndSavePanelService', 'pid': 3886, 'vms': 401462.359375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'QuickLookUIService', 'pid': 3887, 'vms': 416896.96875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'PhotosPicker', 'pid': 3889, 'vms': 417190.5625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'parsecd', 'pid': 3890, 'vms': 416946.984375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'itunescloudd', 'pid': 3891, 'vms': 416949.578125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'extensionkitservice', 'pid': 3894, 'vms': 416911.484375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'spindump_agent', 'pid': 3899, 'vms': 416907.0} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'geoanalyticsd', 'pid': 3903, 'vms': 416945.671875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.audio.SandboxHelper', 'pid': 3904, 'vms': 400688.203125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'VTDecoderXPCService', 'pid': 3913, 'vms': 416890.9375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'VTEncoderXPCService', 'pid': 3953, 'vms': 401708.71875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'XProtect', 'pid': 4333, 'vms': 400997.9375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'XProtectPluginService', 'pid': 4334, 'vms': 416944.28125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'PowerChime', 'pid': 4336, 'vms': 417011.78125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'intelligenceplatformd', 'pid': 4344, 'vms': 416946.453125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'generativeexperiencesd', 'pid': 4355, 'vms': 416943.8125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.audio.SandboxHelper', 'pid': 4358, 'vms': 400689.203125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'privatecloudcomputed', 'pid': 4362, 'vms': 416949.109375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ciphermld', 'pid': 4365, 'vms': 416948.71875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'CloudTelemetryService', 'pid': 4368, 'vms': 401544.484375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'analyticsagent', 'pid': 4370, 'vms': 416947.28125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ModelCatalogAgent', 'pid': 4372, 'vms': 416911.53125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'businessservicesd', 'pid': 4374, 'vms': 416943.421875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'financed', 'pid': 4376, 'vms': 416949.4375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'tipsd', 'pid': 4377, 'vms': 416960.875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'dprivacyd', 'pid': 4378, 'vms': 416948.328125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'DPSubmissionService', 'pid': 4380, 'vms': 416945.90625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.siri.embeddedspeech', 'pid': 4381, 'vms': 416965.40625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'MessagesBlastDoorService', 'pid': 4382, 'vms': 416912.140625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'TrustedPeersHelper', 'pid': 4392, 'vms': 401003.125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.sbd', 'pid': 4393, 'vms': 416947.265625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'mlhostd', 'pid': 4394, 'vms': 416953.84375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'MTLAssetUpgraderD', 'pid': 4399, 'vms': 416944.5} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'backgroundassets.user', 'pid': 4401, 'vms': 416907.28125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'extensionkitservice', 'pid': 4402, 'vms': 416920.21875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'managedcorespotlightd', 'pid': 4416, 'vms': 404217.5} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'sirittsd', 'pid': 4417, 'vms': 417104.109375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'promotedcontentd', 'pid': 4422, 'vms': 416952.21875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'CloudTelemetryService', 'pid': 4424, 'vms': 401288.484375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'nbagent', 'pid': 4441, 'vms': 421389.828125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'betaenrollmentagent', 'pid': 4442, 'vms': 416943.9375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'gamecontrolleragentd', 'pid': 4445, 'vms': 416910.875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.photos.VideoConversionService', 'pid': 4447, 'vms': 400997.046875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.audio.SandboxHelper', 'pid': 4448, 'vms': 400678.203125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'VTEncoderXPCService', 'pid': 4449, 'vms': 401544.671875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'VTDecoderXPCService', 'pid': 4450, 'vms': 416890.875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'assistant_cdmd', 'pid': 4454, 'vms': 416972.5} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'RemoteManagementAgent', 'pid': 4481, 'vms': 416945.671875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'proactiveeventtrackerd', 'pid': 4482, 'vms': 416945.703125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'SafariConfigurationSubscriber', 'pid': 4484, 'vms': 401161.109375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'SecuritySubscriber', 'pid': 4486, 'vms': 401126.46875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'InteractiveLegacyProfilesSubscriber', 'pid': 4488, 'vms': 401126.390625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ScreenSharingSubscriber', 'pid': 4489, 'vms': 401126.921875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'LegacyProfilesSubscriber', 'pid': 4495, 'vms': 401126.40625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'PasscodeSettingsSubscriber', 'pid': 4497, 'vms': 401126.4375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'AccountSubscriber', 'pid': 4499, 'vms': 401255.46875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ManagementTestSubscriber', 'pid': 4502, 'vms': 401126.40625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ASConfigurationSubscriber', 'pid': 4503, 'vms': 401290.09375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ManagedSettingsSubscriber', 'pid': 4505, 'vms': 401127.484375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'SafariBookmarksSyncAgent', 'pid': 4508, 'vms': 417106.1875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'sociallayerd', 'pid': 4509, 'vms': 416911.625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'SafariLaunchAgent', 'pid': 4512, 'vms': 416943.875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'AMPLibraryAgent', 'pid': 4523, 'vms': 416987.484375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'AMPArtworkAgent', 'pid': 4524, 'vms': 416950.796875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.BKAgentService', 'pid': 4534, 'vms': 416945.140625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'com.apple.CloudPhotosConfiguration', 'pid': 4536, 'vms': 416944.90625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'findmydevice-user-agent', 'pid': 4545, 'vms': 416910.375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'progressd', 'pid': 4546, 'vms': 416946.546875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'proactived', 'pid': 4563, 'vms': 416955.8125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'MENotificationAgent', 'pid': 4570, 'vms': 401255.8125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'media-indexer', 'pid': 4580, 'vms': 416979.796875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'PodcastContentService', 'pid': 4581, 'vms': 416945.3125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'contactsdonationagent', 'pid': 4591, 'vms': 416950.921875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'avatarsd', 'pid': 4592, 'vms': 416957.828125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'recentsd', 'pid': 4614, 'vms': 416944.515625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'parsec-fbf', 'pid': 4656, 'vms': 416956.046875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'PlugInLibraryService', 'pid': 4714, 'vms': 400541.40625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'QLPreviewGenerationExtension', 'pid': 5129, 'vms': 416979.140625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'SpeechSynthesisServerXPC', 'pid': 5130, 'vms': 416945.1875} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'IntelligencePlatformComputeService', 'pid': 5168, 'vms': 416953.265625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'MTLCompilerService', 'pid': 6427, 'vms': 416947.453125} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'intelligenceflowd', 'pid': 6782, 'vms': 416955.015625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'localspeechrecognition', 'pid': 6784, 'vms': 416973.75} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'intelligencecontextd', 'pid': 6786, 'vms': 416953.609375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'ndoagent', 'pid': 11392, 'vms': 416939.515625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'feedbackd', 'pid': 11394, 'vms': 416906.90625} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'Calculator', 'pid': 11608, 'vms': 402014.234375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'EscrowSecurityAlert', 'pid': 11880, 'vms': 416910.484375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'python3.12', 'pid': 12004, 'vms': 400965.375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'mdworker_shared', 'pid': 12011, 'vms': 416960.59375} 
+
+{'username': 'parasshivprasadkulkarni', 'name': 'AXVisualSupportAgent', 'pid': 12018, 'vms': 401457.984375} 
+
+--------------------------------------------------------------------------------

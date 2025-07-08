@@ -1,0 +1,24 @@
+{
+  "total_students": 193,
+  "processed_count": 2,
+  "results": [],
+  "failed_students": [
+    {
+      "roll_number": "F190860026",
+      "mother_name": "Savita",
+      "percentage": null,
+      "status": "failed",
+      "error": "Message: timeout: Timed out receiving message from renderer: -0.005\n  (Session info: chrome=137.0.7151.120)\nStacktrace:\n0   chromedriver                        0x00000001006f1d14 cxxbridge1$str$ptr + 2735276\n1   chromedriver                        0x00000001006e9f88 cxxbridge1$str$ptr + 2703136\n2   chromedriver                        0x000000010023a6f0 cxxbridge1$string$len + 90424\n3   chromedriver                        0x00000001002255e4 cxxbridge1$string$len + 4140\n4   chromedriver                        0x000000010022535c cxxbridge1$string$len + 3492\n5   chromedriver                        0x0000000100223114 chromedriver + 192788\n6   chromedriver                        0x0000000100223ca4 chromedriver + 195748\n7   chromedriver                        0x0000000100230f9c cxxbridge1$string$len + 51684\n8   chromedriver                        0x0000000100246d14 cxxbridge1$string$len + 141148\n9   chromedriver                        0x0000000100224300 chromedriver + 197376\n10  chromedriver                        0x0000000100246aec cxxbridge1$string$len + 140596\n11  chromedriver                        0x00000001002c3010 cxxbridge1$string$len + 649816\n12  chromedriver                        0x0000000100275be8 cxxbridge1$string$len + 333360\n13  chromedriver                        0x00000001006b5598 cxxbridge1$str$ptr + 2487600\n14  chromedriver                        0x00000001006b8830 cxxbridge1$str$ptr + 2500552\n15  chromedriver                        0x0000000100695c14 cxxbridge1$str$ptr + 2358188\n16  chromedriver                        0x00000001006b90b8 cxxbridge1$str$ptr + 2502736\n17  chromedriver                        0x0000000100686dec cxxbridge1$str$ptr + 2297220\n18  chromedriver                        0x00000001006d9420 cxxbridge1$str$ptr + 2634680\n19  chromedriver                        0x00000001006d95ac cxxbridge1$str$ptr + 2635076\n20  chromedriver                        0x00000001006e9bd4 cxxbridge1$str$ptr + 2702188\n21  libsystem_pthread.dylib             0x000000018b24ac0c _pthread_start + 136\n22  libsystem_pthread.dylib             0x000000018b245b80 thread_start + 8\n",
+      "timestamp": "2025-07-08T00:19:59.918856"
+    },
+    {
+      "roll_number": "F190860027",
+      "mother_name": "Pratibha",
+      "percentage": null,
+      "status": "failed",
+      "error": "Message: \nStacktrace:\n0   chromedriver                        0x00000001006f1d14 cxxbridge1$str$ptr + 2735276\n1   chromedriver                        0x00000001006e9f88 cxxbridge1$str$ptr + 2703136\n2   chromedriver                        0x000000010023a6f0 cxxbridge1$string$len + 90424\n3   chromedriver                        0x00000001002819e0 cxxbridge1$string$len + 381992\n4   chromedriver                        0x00000001002c30c8 cxxbridge1$string$len + 650000\n5   chromedriver                        0x0000000100275be8 cxxbridge1$string$len + 333360\n6   chromedriver                        0x00000001006b5598 cxxbridge1$str$ptr + 2487600\n7   chromedriver                        0x00000001006b8830 cxxbridge1$str$ptr + 2500552\n8   chromedriver                        0x0000000100695c14 cxxbridge1$str$ptr + 2358188\n9   chromedriver                        0x00000001006b90b8 cxxbridge1$str$ptr + 2502736\n10  chromedriver                        0x0000000100686dec cxxbridge1$str$ptr + 2297220\n11  chromedriver                        0x00000001006d9420 cxxbridge1$str$ptr + 2634680\n12  chromedriver                        0x00000001006d95ac cxxbridge1$str$ptr + 2635076\n13  chromedriver                        0x00000001006e9bd4 cxxbridge1$str$ptr + 2702188\n14  libsystem_pthread.dylib             0x000000018b24ac0c _pthread_start + 136\n15  libsystem_pthread.dylib             0x000000018b245b80 thread_start + 8\n",
+      "timestamp": "2025-07-08T00:21:46.345703"
+    }
+  ],
+  "timestamp": "2025-07-08T00:21:58.692784"
+}

@@ -1,0 +1,55 @@
+import psutil
+import os
+import time
+import schedule
+
+def CreateLog(FolderName):
+    if not os.path.exists(FolderName):
+        os.mkdir(FolderName)
+    
+    timestamp=time.ctime()
+    timestamp=timestamp.replace(" ","")
+    timestamp=timestamp.replace(":","_")
+    timestamp=timestamp.replace("/","_")
+
+    FileName=os.path.join(FolderName,"Marvellous%s.log"%(timestamp))
+
+    fobj=open(FileName,"w")
+    
+    border='-'*80
+    fobj.write(border)
+    fobj.write("\n\t\t\tMarvellous Infosystems Process Log\n")
+    fobj.write("\t\t\tLog File is Created at : "+time.ctime()+"\n")
+    fobj.write(border+"\n")
+
+    Data=ProcessScan()
+    for value in Data:
+        #fobj.write(str(value)+"\n")
+        fobj.write("%s \n\n"%value)
+
+    fobj.write(border)
+    fobj.close()
+
+def ProcessScan():
+
+    listprocess=[]
+    
+    for proc in psutil.process_iter():
+        try:
+            info=proc.as_dict(attrs=['pid','name','username'])
+            info['vms']=proc.memory_info().vms / (1024 * 1024)
+            listprocess.append(info)
+        except (psutil.NoSuchProcess,psutil.ZombieProcess,psutil.AccessDenied) : 
+            pass
+
+    return listprocess
+
+def main():
+    schedule.every(1).minutes.do(CreateLog,"MarvellousProcessX")
+
+    while True:
+        schedule.run_pending()
+        time.sleep(1)
+
+if __name__=="__main__":
+    main()
