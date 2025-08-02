@@ -4,11 +4,11 @@
 import numpy as np
 import math
 
-def EucDistance(P1,P2):
+def EucDistance(P1,P2):     #Distance formula
     Ans = math.sqrt(((P1['x']-P2['x'])**2) + ((P1['y']-P2['y'])**2))
     return Ans
 
-def KNN():
+def KNN():                  #K Nearest Algo
     line="-"*46
     data = [{'point':'A','x':1,'y':2,'label':'Red'},
             {'point':'B','x':2,'y':3,'label':'Red'},

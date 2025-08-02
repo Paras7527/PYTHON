@@ -1,0 +1,66 @@
+/* Reset and font */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to right, #1e3c72, #2a5298);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Card container */
+.container {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 30px 40px;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+
+/* Heading */
+.container h2 {
+    margin-bottom: 20px;
+    color: #ffffff;
+    font-size: 26px;
+}
+
+/* Form inputs */
+form input {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0 16px;
+    border: none;
+    border-radius: 8px;
+    background-color: #ffffff;
+    font-size: 16px;
+    color: #333;
+}
+
+/* Submit button */
+form button {
+    padding: 12px 24px;
+    background-color: #00b894;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+form button:hover {
+    background-color: #019875;
+}
+
+/* Prediction result */
+.result {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffeaa7;
+}

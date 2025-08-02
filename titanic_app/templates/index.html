@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Titanic Survival Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h2>Titanic Survival Prediction</h2>
+        <form method="POST" action="/predict">
+            <input type="number" name="Age" placeholder="Age" required>
+            <input type="number" name="Fare" placeholder="Fare" required>
+            <input type="number" name="Sex" placeholder="Sex (0=Female, 1=Male)" required>
+            <input type="number" name="sibsp" placeholder="Siblings/Spouses" required>
+            <input type="number" name="Parch" placeholder="Parents/Children" required>
+            <input type="number" name="Pclass" placeholder="Pclass (1/2/3)" required>
+            <input type="number" name="Embarked" placeholder="Embarked (C=0, Q=1, S=2)" required>
+            <button type="submit">Predict</button>
+        </form>
+
+        {% if prediction %}
+            <div class="result">Prediction: {{ prediction }}</div>
+        {% endif %}
+    </div>
+</body>
+</html>
