@@ -1,0 +1,20 @@
+#Problems on Digits
+
+def Reverse(iNo):
+    iDigit = 0
+    iRev = 0
+    while(iNo!=0):
+        iDigit = iNo%10
+        iRev = (iRev*10)+iDigit
+        iNo = iNo//10
+    return iRev
+
+def main():
+    print("Enter the number : ")
+    ivalue = int(input())
+
+    iRet = Reverse(ivalue)
+    print("Reverse Number is : ",iRet)
+
+if __name__ == "__main__":
+    main()
